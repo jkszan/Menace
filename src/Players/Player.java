@@ -1,4 +1,8 @@
 //Abstract class player is an interface for all player types
+package src.Players;
+import src.common.*;
+import src.Gameboards.TicTacToeGame;
+
 public abstract class Player {
 
 	//Player Data

@@ -1,3 +1,4 @@
+package src.common;
 import java.util.Random;
 import java.io.Console;
 

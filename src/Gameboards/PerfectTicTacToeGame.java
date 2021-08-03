@@ -1,3 +1,6 @@
+package src.Gameboards;
+import src.common.*;
+
 public class PerfectTicTacToeGame extends TicTacToeGame {
 	
 	public static final int NOT_SET = 0;

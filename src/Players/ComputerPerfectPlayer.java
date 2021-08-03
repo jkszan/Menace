@@ -1,4 +1,8 @@
+package src.Players;
 import java.util.LinkedList;
+import src.Gameboards.TicTacToeGame;
+import src.Gameboards.PerfectTicTacToeGame;
+import src.common.*;
 
 //The theoretical perfect computer player, this is implemented via brute force checking every single game to see what the best winning chances are in each gamestate
 public class ComputerPerfectPlayer extends Player {

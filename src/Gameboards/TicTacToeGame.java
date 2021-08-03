@@ -7,6 +7,10 @@
  * @author Jacob Kszan
  * @author Sebastian Larrivee
  */
+
+package src.Gameboards;
+import src.common.*;
+
 public class TicTacToeGame {
 
 	//The game board, stored in an array

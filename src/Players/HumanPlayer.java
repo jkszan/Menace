@@ -1,3 +1,7 @@
+package src.Players;
+import src.common.*;
+import src.Gameboards.TicTacToeGame;
+
 public class HumanPlayer extends Player {
 	
 

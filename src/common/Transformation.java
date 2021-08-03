@@ -5,7 +5,7 @@
  
  * @author Guy-Vincent Jourdan, University of Ottawa
  */
-
+package src.common;
 public enum Transformation {
 	ID,
 	ROT,

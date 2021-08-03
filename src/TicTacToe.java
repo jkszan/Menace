@@ -1,3 +1,8 @@
+package src;
+import src.common.*;
+import src.Gameboards.*;
+import src.Players.*;
+
 public class TicTacToe {
 
     //Defines the amount of training time for each MENACE training operation
