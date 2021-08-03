@@ -266,7 +266,6 @@ public class TicTacToeGame {
 		 if(gameState == GameState.PLAYING) {
 			 setGameState(i);
 		 }
- 
 	 }
  
  
@@ -549,7 +548,6 @@ public class TicTacToeGame {
 				 //Checks to see if all of the cells matched, if so then they match
 				 //with symmetry and true is returned.
 				 if(equalCellCount == this.lines * this.columns){
-					 //System.out.println("Hitter");
 					 return true;
 				 }
  

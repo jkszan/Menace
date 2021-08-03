@@ -106,7 +106,7 @@ public class TicTacToe {
                     players[turn%2].play(game);
                     turn++;
                 }
-
+                
                 players[0].gameFinished(game.getGameState());
                 players[1].gameFinished(game.getGameState());
                 
